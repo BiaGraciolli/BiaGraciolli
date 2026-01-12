@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo(a) ao meu perfil! 😃
+# Olá! Seja bem-vindo(a) ao meu perfil! 😺
 Meu nome é Beatriz e estou cursando o terceiro ano do ensino médio técnico em informática. </>
 
 <h3>Ferramentas e linguagens que já trabalhei:<h3/>
