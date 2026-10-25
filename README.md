@@ -1,4 +1,4 @@
-<img width="666" height="375" alt="Image" src="https://github.com/user-attachments/assets/5de2853e-0cea-4371-96cc-05476707a080" />
+<img width="222" height="125" alt="Image" src="https://github.com/user-attachments/assets/5de2853e-0cea-4371-96cc-05476707a080" />
 # Olá! Seja bem-vindo(a) ao meu perfil! 😺
 Meu nome é Beatriz e estou cursando o terceiro ano do ensino médio técnico em informática. </>
 
