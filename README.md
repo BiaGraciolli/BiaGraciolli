@@ -1,8 +1,13 @@
 <div align=center>
 <img width="222" height="125" alt="Image" src="https://github.com/user-attachments/assets/5de2853e-0cea-4371-96cc-05476707a080" />
 </div>
-# Olá! Seja bem-vindo(a) ao meu perfil! 😺
-Meu nome é Beatriz e estou cursando o terceiro ano do ensino médio técnico em informática. </>
+
+<p>Olá! Seja bem-vindo(a) ao meu perfil! 😸</p>
+<p>Meu nome é Beatriz e estou cursando o terceiro ano do ensino médio técnico em informática!</p>
+
+<div align=center>
+<img width="500" height="68" alt="Image" src="https://github.com/user-attachments/assets/f8f3f25c-a17d-4741-9f32-f5095a601a15" />
+</div>
 
 <h3>Ferramentas e linguagens que já trabalhei:<h3/>
 <p align="left">
