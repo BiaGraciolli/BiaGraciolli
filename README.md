@@ -12,7 +12,8 @@
 <h3>Ferramentas e linguagens que já trabalhei:<h3/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height=30 widgth=40 src="https://skillicons.dev/icons?i=py,c,cs,js,php,html,css,bootstrap,git,mysql,mongodb,visualstudio,vscode,pycharm" />
+    <img height=60 widgth=100 src="https://skillicons.dev/icons?i=py,c,cs,java,kotlin,js,nodejs,php,html" />
+    <img height=60 widgth=100 src="https://skillicons.dev/icons?i=css,bootstrap,git,mysql,mongodb,visualstudio,vscode,pycharm" />
   </a>
 </p>
 
